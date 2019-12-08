@@ -1,0 +1,28 @@
+% Encoding: UTF-8
+
+@Online{Murphy2015,
+  author = {Robin Murphy},
+  editor = {Robin Murphy},
+  title  = {Drones Save Lives in Disasters, When They're Allowed to Fly (Op-Ed)},
+  year   = {2015},
+  date   = {2015-09-16},
+  url    = {https://www.space.com/30555-beginning-with-katrina-drones-save-lives-in-disasters.html},
+}
+
+@Online{Reagan2019,
+  author = {Jason Reagan},
+  editor = {Jason Reagan},
+  title  = {California: Drones Stitch Helpful Aerial Maps in Wake of Deadly Camp Fire},
+  year   = {2019},
+  date   = {2019-01-08},
+  url    = {https://dronelife.com/2019/01/08/california-drones-stitch-helpful-aerial-maps-in-wake-of-deadly-camp-fire/},
+}
+
+@Online{Morant,
+  author = {Jean-Louis Morant},
+  editor = {Jean-Louis Morant},
+  title  = {Leveraging Drones in the Wake of Hurricane Irma},
+  url    = {https://www.dronedeploy.com/resources/stories/dronotec-hurricane-irma/},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
